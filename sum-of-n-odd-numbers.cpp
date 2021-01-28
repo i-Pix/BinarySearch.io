@@ -5,3 +5,8 @@ int solve(int n) {
  }   
  return sum;
 }
+/*
+int solve(int n) {
+    return n * n;
+}
+*/
